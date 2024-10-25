@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs from Cloud Config"
+  contactDetails:
+    name: "Naren Rajendran - QA Lead"
+    email: "narenr@eazybank.com"
+  onCallSupport:
+    - (333) 333-1234
+    - (333) 313-1345

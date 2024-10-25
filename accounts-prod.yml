@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs from Cloud Config"
+  contactDetails:
+    name: "Anil kumar"
+    email: "anilk@eazybank.com"
+  onCallSupport:
+    - (111) 101-1234
+    - (111) 010-1345
