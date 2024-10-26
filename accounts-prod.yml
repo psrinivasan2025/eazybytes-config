@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs from Cloud Config from Github"
+  message: "Welcome to EazyBank accounts related Prod APIs from Cloud Config from Github v1"
   contactDetails:
     name: "Anil kumar"
     email: "anilk@eazybank.com"
