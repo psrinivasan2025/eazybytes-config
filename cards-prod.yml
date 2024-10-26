@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related prod APIs from Cloud Config from GitHub"
   contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    name: "Jim Haraldback - Product Owner"
+    email: "jimback@eazybank.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
