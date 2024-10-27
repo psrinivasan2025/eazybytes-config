@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs from Cloud Config"
+  message: "Welcome to EazyBank accounts related local APIs from Cloud Config from GitHub"
   contactDetails:
     name: "Srinivasan Pattabiraman - Developer"
     email: "srinip@eazybank.com"
