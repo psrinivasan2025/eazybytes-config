@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs from Cloud Config from GitHub v1"
+  message: "Welcome to EazyBank cards related prod APIs from Cloud Config from GitHub v1.4"
   contactDetails:
     name: "Jim Haraldback - Product Owner"
     email: "jimback@eazybank.com"
